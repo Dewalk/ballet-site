@@ -1,0 +1,19 @@
+.jumbotron-mybackground {
+    background-image: url(../images/balletshoescopy.jpg);
+    background-size: cover;
+    height: 100%;
+    color: #ffffff;
+}
+
+/*
+.carousel-inner img {
+    margin: auto;
+}
+*/
+
+.carousel img {
+    min-width: 100%;
+}
+
+
+
